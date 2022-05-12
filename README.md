@@ -23,7 +23,7 @@ Binary classification is a form of classification — the process of predicting 
 5.plot the dataset and color the by class label
 
 
-## Program:
+## <br><br><br><br><br>Program:
 ```
 /*
 Program to implement binary classification.
