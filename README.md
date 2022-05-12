@@ -52,11 +52,11 @@ pyplot.legend()
 pyplot.show()
 ```
 
-## <br><br><br>Output:
+## <br><br><br><br><br><br><br><br><br><br><br><br>Output:
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/75235334/163752778-9729c706-24d7-4db6-9f7d-91f381151104.png)
 
 
 
-## <br><br><br><br> Result:
+## <br><br><br><br> <br><br><br><br><br><br>Result:
 Thus the python program performed binary classification successfully.
